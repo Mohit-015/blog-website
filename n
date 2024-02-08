@@ -1,0 +1,7 @@
+data store
+data delete
+data read
+data write
+10 marks
+4 marks - coding- structure, code, variable, comment, desing, colours
+6 marks - output
